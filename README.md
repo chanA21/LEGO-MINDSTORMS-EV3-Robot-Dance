@@ -1,4 +1,4 @@
-# LEGO MINDSTORMS Education EV3 Robot Dance
+# LEGO MINDSTORMS EV3 Robot Dance
 ## 프로젝트 간략 소개
 - LEGO MINDSTORMS Education EV3를 사용하여 로봇 춤 동작 구현하기 위한 프로젝트 입니다.
 - LEGO MINDSTORMS Education EV3 Classroom IDE를 사용하여 작성되었습니다.
