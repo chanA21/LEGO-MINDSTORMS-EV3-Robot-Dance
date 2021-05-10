@@ -16,16 +16,16 @@
 ## 개발 환경
 
 ### 언어
-- Scratch
-
+> - Scratch
+> 
 ### 하드웨어
-- EV3 브릭
-  - 모터
-    - 라지 모터
-    - 미디엄 모터
-  - 센서
-    - 터치 센서
-    - 초음파 센서
+> - EV3 브릭
+>   - 모터
+>     - 라지 모터
+>     - 미디엄 모터
+>   - 센서
+>     - 터치 센서
+>     - 초음파 센서
 ### 소프트웨어
-- OS : Window 10
-- IDE : LEGO MINDSTORMS Education EV3 Classroom
+> - OS : Window 10
+> - IDE : LEGO MINDSTORMS Education EV3 Classroom
