@@ -6,7 +6,7 @@
 ## 프로그램 흐름도
 <img src = "https://user-images.githubusercontent.com/65267954/117315714-e7c0e900-aec2-11eb-9193-b3339e172624.jpeg" width="400px" height="auto">
 
-##프로젝트 참여 인원
+## 프로젝트 참여 인원
 - 김영은(YeongEun Kim)[Researcher]
 - 임찬아(ChanA Lim) [Researcher]
 - 전민건(Mingeon Jeon) [Researcher & Mentor]
