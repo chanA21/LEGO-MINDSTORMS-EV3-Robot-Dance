@@ -29,3 +29,6 @@
 ### 소프트웨어
 > - OS : Window 10
 > - IDE : LEGO MINDSTORMS Education EV3 Classroom
+
+## 동작 영상
+<iframe width="1047" height="589" src="https://www.youtube.com/embed/hEXq5QX0ehk" frameborder="0" gesture="media" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
