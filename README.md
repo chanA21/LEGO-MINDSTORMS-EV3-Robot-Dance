@@ -31,5 +31,5 @@
 > - IDE : LEGO MINDSTORMS Education EV3 Classroom
 
 ## 동작 영상
-[아무노래 로봇 댄스 (youtube)](https://www.youtube.com/watch?v=hEXq5QX0ehk&t=5s)
+[아무노래 로봇 댄스 (YouTube)](https://www.youtube.com/watch?v=hEXq5QX0ehk&t=5s)
 
