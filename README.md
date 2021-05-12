@@ -32,3 +32,5 @@
 
 ## 동작 영상
 <iframe width="1047" height="589" src="https://www.youtube.com/embed/hEXq5QX0ehk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/embed/hEXq5QX0ehk "Everything Is AWESOME")
+
